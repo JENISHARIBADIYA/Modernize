@@ -1,16 +1,7 @@
-# Bootstrap w/ Vite
-
-Include [Bootstrap](https://getbootstrap.com)'s source Sass and individual JavaScript plugins with [Vite](https://vitejs.dev/).
-
-## Edit in browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/vite?file=index.html)
-
-## How to use
-
-```sh
-git clone https://github.com/twbs/examples.git
-cd examples/vite/
-npm install
-npm start
-```
+![screencapture-localhost-php-Modernize-src-index-php-2023-09-27-15_42_40](https://github.com/JENISHARIBADIYA/Modernize/assets/146156093/75bcdf42-0e82-4d03-b2cd-79c69dd8f5b9)
+![screencapture-localhost-php-Modernize-src-home-dashboard-php-2023-09-27-15_41_19](https://github.com/JENISHARIBADIYA/Modernize/assets/146156093/29e1051a-40a7-4b1b-9fdf-5061bca11dae)
+![screencapture-localhost-php-Modernize-src-forgotpassword-php-2023-09-27-15_43_15](https://github.com/JENISHARIBADIYA/Modernize/assets/146156093/2a9b115b-3d76-419c-be90-190e55c35701)
+![screencapture-localhost-php-Modernize-src-forgotpassword-php-2023-09-27-15_42_57](https://github.com/JENISHARIBADIYA/Modernize/assets/146156093/a42ea03a-ec98-41d4-a371-28dfbbc9bef7)
+![screencapture-localhost-php-Modernize-src-common-changepassword-php-2023-09-27-15_42_28](https://github.com/JENISHARIBADIYA/Modernize/assets/146156093/a1dadfcb-83cc-4c0c-bbdb-d56f9cf3383f)
+![screencapture-localhost-php-Modernize-src-profile-profile-php-2023-09-27-15_42_12](https://github.com/JENISHARIBADIYA/Modernize/assets/146156093/d4997956-8714-483e-af68-a9d0f71e76cd)
+![screencapture-localhost-php-Modernize-src-products-product-php-2023-09-27-15_41_34](https://github.com/JENISHARIBADIYA/Modernize/assets/146156093/76cb5f05-d715-4cc0-863f-bbb0e6a1b4b9)
